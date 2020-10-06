@@ -1,0 +1,21 @@
+Create a Bucket:
+In the Cloud Console, go to Navigation menu > Storage > Browser. Click Create Bucket
+
+Upload an Object into the Bucket:
+  In this section, you will add an object to your bucket. For this lab the object is an image.
+
+  Use an image you have on your computer, or click this link to download a portrait of Ada Lovelace and   save the image to your local computer.
+
+  The Bucket details screen should still be open. Drag the portrait of Ada Lovelace to the Drop files   here area of the Bucket details screen.
+
+  Delete the image in the bucket. Check the box next to the filename then click Delete, and then click   Delete again to confirm in the Delete selected file? dialog.
+
+  Upload the image again, this time click Upload files.
+
+  Navigate to the image on your local computer, and then click Open.
+
+  You should see the image listed in the Buckets list.
+
+  Rename the file. Click on the drop-down menu (three vertical dots) on the far right on the image row   and select Rename.
+
+  Update the file name to "ada.jpg" and click RENAME.

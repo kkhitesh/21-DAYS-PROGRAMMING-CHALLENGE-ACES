@@ -1,0 +1,14 @@
+The IAM console and project level roles:
+
+Return to the Username 1 Cloud Console page.
+
+Select Navigation menu > IAM & Admin > IAM. You are now in the "IAM & Admin" console.
+
+Click +ADD button at the top of the page and explore the project roles associated with Projects by clicking on the "Select a role" dropdown menu:
+
+
+Remove project access:
+
+Select Navigation menu > IAM & Admin > IAM. Then click the pencil icon next to Username 2.
+
+Remove Project Viewer access for Username 2 by clicking the trashcan icon next to the role name. Then click SAVE.
