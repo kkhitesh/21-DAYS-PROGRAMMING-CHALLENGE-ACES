@@ -10,3 +10,6 @@
  
 ## Day 2:
  - Completed Sub Modules under Cloud Engineering track
+ 
+## Day 3:
+ - Completed 2nd Module in Cloud Engineering Track
