@@ -13,3 +13,6 @@
  
 ## Day 3:
  - Completed 2nd Module in Cloud Engineering Track
+
+## Day 4:
+ - Solved Codechef Long Challenge Question
