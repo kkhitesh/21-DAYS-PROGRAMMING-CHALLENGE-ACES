@@ -16,3 +16,7 @@
 
 ## Day 4:
  - Solved Codechef Long Challenge Question
+
+## Day 5:
+ - Solved Codechef Long Challenge Question
+ - Completed Sub Modules under Cloud Engineering track
