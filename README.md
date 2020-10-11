@@ -21,5 +21,8 @@
  - Solved Codechef Long Challenge Question
  - Completed Sub Modules under Cloud Engineering track
  
- ## Day 6:
-  - Tried solving 4th question in October Long Challenge
+## Day 6:
+ - Tried solving 4th question in October Long Challenge
+ 
+## Day 7:
+ - Completed Sub Modules under Cloud Engineering Track
