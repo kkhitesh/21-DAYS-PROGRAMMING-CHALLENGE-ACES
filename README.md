@@ -26,3 +26,9 @@
  
 ## Day 7:
  - Completed Sub Modules under Cloud Engineering Track
+ 
+## Day 8:
+ - Completed Sub Modules under Cloud Engineering Track
+
+## Day 9:
+ - Completed Module in Cloud Engineering Track
