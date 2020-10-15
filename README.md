@@ -32,3 +32,9 @@
 
 ## Day 9:
  - Completed Module in Cloud Engineering Track
+ 
+## Day 10:
+ - Completed Sub Modules under Cloud Engineering Track
+ 
+## Day 11:
+ - Learned the basics of javascript
