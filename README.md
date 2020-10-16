@@ -38,3 +38,6 @@
  
 ## Day 11:
  - Learned the basics of javascript
+
+## Day 12:
+ - Completed Module in Cloud Engineering Track
