@@ -41,3 +41,7 @@
 
 ## Day 12:
  - Completed Module in Cloud Engineering Track
+
+## Day 13:
+ - Completed Sub Modules under Cloud Engineering Track
+ - Studied functions in JavaScript
