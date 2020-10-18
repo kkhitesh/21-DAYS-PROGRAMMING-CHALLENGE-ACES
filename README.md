@@ -1,6 +1,6 @@
 # 21-DAYS-PROGRAMMING-CHALLENGE-ACES
 
- Learning DS, Exploring new things
+Exploring new things
  
 ---
 
@@ -45,3 +45,6 @@
 ## Day 13:
  - Completed Sub Modules under Cloud Engineering Track
  - Studied functions in JavaScript
+ 
+## Day 14:
+ - Completed Module in Cloud Engineering Track
