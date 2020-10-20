@@ -48,3 +48,9 @@ Exploring new things
  
 ## Day 14:
  - Completed Module in Cloud Engineering Track
+
+## Day 15:
+  - Completed Sub Modules in Cloud Engineering Track
+  
+## Day 16:
+ - Attended Workshop on Full Stack Dev b Clever Programmer
