@@ -53,4 +53,7 @@ Exploring new things
   - Completed Sub Modules in Cloud Engineering Track
   
 ## Day 16:
- - Attended Workshop on Full Stack Dev b Clever Programmer
+ - Attended Workshop on Full Stack Dev by Clever Programmer
+
+## Day 17:
+ - Attended Workshop on Full Stack Dev and created frontend for react clone
