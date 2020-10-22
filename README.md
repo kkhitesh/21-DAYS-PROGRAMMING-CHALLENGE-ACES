@@ -57,3 +57,6 @@ Exploring new things
 
 ## Day 17:
  - Attended Workshop on Full Stack Dev and created frontend for react clone
+ 
+## Day 18:
+ - Tried Creating Indtagram Clone with React and Firebase 
