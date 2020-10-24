@@ -59,4 +59,10 @@ Exploring new things
  - Attended Workshop on Full Stack Dev and created frontend for react clone
  
 ## Day 18:
- - Tried Creating Indtagram Clone with React and Firebase 
+ - Tried Creating Indtagram Clone with React and Firebase
+ 
+## Day 19:
+ - Completed Cloud Track under Qwiklabs
+ 
+## Da 20:
+ - Started the ML Track on Qwiklabs
