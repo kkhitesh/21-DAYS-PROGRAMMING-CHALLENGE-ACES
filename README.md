@@ -66,3 +66,6 @@ Exploring new things
  
 ## Da 20:
  - Started the ML Track on Qwiklabs
+ 
+## Day 21:
+ - Completed Module under ML Track
